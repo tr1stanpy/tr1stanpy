@@ -8,9 +8,6 @@
 
 <h2><b><i>Hi i am tr1stan 👋</i></b></h2>
 
-<h3><b><i> My Awsome Works :</i></b></h3>
-<a> balls <a/>
-
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/tr1stanpy"><img width=550 src="https://github-profile-trophy.vercel.app/?username=tr1stanpy&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -23,5 +20,5 @@
 
 
 ## My Social Media:
-<li> <a href="https://tr1stan.xyz">nigger.xyz</a>
+<li> <a href="https://tr1stan.cc">tr1stan.cc</a>
  
