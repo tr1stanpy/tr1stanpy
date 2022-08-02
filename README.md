@@ -15,9 +15,6 @@
 <h3><b><i>🏆 My Profile View :</i></b></h3>
 <a href="https://github.com/tr1stanpy"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tr1stanpy&color=blueviolet&style=flat-square"></a>
 
-## Languages I Use & Lern:
-- Python, Web-Development, Cyber-Security
-
 
 ## My Social Media:
 <li> <a href="https://tr1stan.cc">tr1stan.cc</a>
